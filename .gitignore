@@ -1,0 +1,11 @@
+# Folders
+_test
+
+# Architecture specific extensions/prefixes
+*.exe
+
+# mac hidden files
+.DS_Store
+
+# Particular file
+test.txt
